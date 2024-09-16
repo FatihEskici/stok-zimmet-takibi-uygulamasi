@@ -1,0 +1,23 @@
+{
+    "depo_adi": "AnaDepo",
+    "urunler": {
+        "P001": {
+            "urun_kodu": "P001",
+            "urun_adi": "Laptop",
+            "kategori": "Elektronik",
+            "fiyat": 1500,
+            "stok_miktari": 5,
+            "min_stok": 10,
+            "satis_gecmisi": []
+        },
+        "P002": {
+            "urun_kodu": "P002",
+            "urun_adi": "Mouse",
+            "kategori": "Aksesuar",
+            "fiyat": 55,
+            "stok_miktari": 200,
+            "min_stok": 20,
+            "satis_gecmisi": []
+        }
+    }
+}

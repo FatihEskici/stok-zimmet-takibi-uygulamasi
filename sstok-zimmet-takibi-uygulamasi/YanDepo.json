@@ -1,0 +1,14 @@
+{
+    "depo_adi": "YanDepo",
+    "urunler": {
+        "P003": {
+            "urun_kodu": "P003",
+            "urun_adi": "Tablet",
+            "kategori": "Elektronik",
+            "fiyat": 800,
+            "stok_miktari": 30,
+            "min_stok": 15,
+            "satis_gecmisi": []
+        }
+    }
+}
